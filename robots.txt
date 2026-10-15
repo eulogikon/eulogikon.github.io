@@ -1,0 +1,6 @@
+# Host-root robots.txt for eulogikon.github.io.
+# Google reads robots.txt only from the host root, so the copy under
+# /ancient-greek-texts/ is not consulted. This file points Google at
+# the catalog sitemap.
+
+Sitemap: https://eulogikon.github.io/ancient-greek-texts/sitemap.xml
